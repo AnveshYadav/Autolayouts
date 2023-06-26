@@ -1,0 +1,9 @@
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\bin\Debug\PersonalPlot.dll
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\bin\Debug\PersonalPlot.pdb
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\bin\Debug\AdWindows.dll
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\obj\Debug\PersonalPlot.csproj.AssemblyReference.cache
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\obj\Debug\PersonalPlot.csproj.CoreCompileInputs.cache
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\obj\Debug\PersonalPlot.csproj.CopyComplete
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\obj\Debug\PersonalPlot.dll
+C:\Users\anves\Downloads\Personal-Plot-master\Personal-Plot-master\PersonalPlot\obj\Debug\PersonalPlot.pdb
